@@ -1,0 +1,3 @@
+[submodule "lib/juration"]
+	path = lib/juration
+	url = https://github.com/domchristie/juration

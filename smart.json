@@ -1,0 +1,8 @@
+{
+	"name": "juration",
+	"description": "A simple natural-language duration parser. (Juration.js packaged for Meteor.)",
+  "homepage": "https://github.com/wizonesolutions/meteor-juration",
+  "author": "wizonesolutions (http://www.wizonesolutions.com)",
+	"version": "1.0.0",
+  "git": "https://github.com/wizonesolutions/meteor-juration.git"
+}
